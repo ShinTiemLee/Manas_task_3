@@ -9,4 +9,4 @@ Debounce function to eliminate bouncing of the button.
 The led switches on and stays on after pressing the button, on pressing again the led switches off.
 
 circuitory:
-Refer the diagram given in the file "ledonoffcircuit"
+Refer the diagram given in the file "ledonoffcircuit.png"
