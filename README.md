@@ -14,6 +14,6 @@ code:
 
 * Potentiometer controls speed
 
-* Button 1 switches between servo and dc mootors
+* Button 1 switches between servo and dc motors
 
 * Button 2 changes direction of rotation of dc motor
