@@ -3,7 +3,10 @@ arduino coding
 
 ref material:https://www.tinkercad.com/embed/ju486scze1x?editbtn=1
 
-code:
-decounce function eliminates bouncing of button
+circuit ref: refer "circuit.png" file
 
-potentiometer changes the speed of leds by adjusting delays
+code:
+
+* Decounce function eliminates bouncing of button
+
+* Potentiometer changes the speed of leds by adjusting delays
